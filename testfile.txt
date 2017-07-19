@@ -2,11 +2,15 @@
 <html>
 <body>
 
+<h1>:v</h1>
+
 <h2>My First Web Page</h2>
 <p>My first paragraph.</p>
+<p>otro por aca</p>
 
 <script>
 document.write(10 + 10);
+alert.('ke onda ke pez');
 </script>
 
 </body>
