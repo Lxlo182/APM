@@ -3,12 +3,16 @@
 <body>
 
 <h1>:v</h1>
+<script>
+console.log('Esto es un nuevo cosole.log');
+</script>
 
 <h2>My First Web Page</h2>
 <p>My first paragraph.</p>
 <p>otro por aca</p>
 
 <script>
+console.log('otro por aca');
 document.write(10 + 10);
 alert.('ke onda ke pez');
 </script>
